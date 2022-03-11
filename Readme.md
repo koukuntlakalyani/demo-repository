@@ -47,7 +47,7 @@ $ git init
 $ Clear // used to clear anything
 
 // Integrate local machine to GitHub remote repository
-$git remote add  origin "path name" //"https://github.com/......"
+$git remote add  origin "path name" //"
 
 
 //copy from git to github ot Github to local machine
@@ -105,8 +105,6 @@ $ git pull origin master
 $ git push origin master
 
 
-// TO check status 
-$ git status  " Command to check status "
 
 
  
