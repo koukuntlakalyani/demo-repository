@@ -6,7 +6,7 @@ This is my first comamnds to access GIT and GITHUB repositories
 
 
 
-**** Git Hub terms:*****
+**** Git Hub terms:****
 
 *  Directory -  Nothing but a Folder 
 *  Terminal or Comamnd Line - > Interface for text commands
