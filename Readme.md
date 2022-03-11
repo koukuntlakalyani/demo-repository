@@ -4,14 +4,6 @@ This is my first comamnds to access GIT and GITHUB repositories
 
 11 March 2022 Friday
 
-https://www.youtube.com/watch?v=RGOj5yH7evk
-Git and GitHub for Beginners - Crash Course
-
-https://www.youtube.com/watch?v=YRYsXnfhfuc
-GIT, GITHUB & CI SDET channel SDET- QA Automation Techie
-
-https://www.youtube.com/watch?v=RGOj5yH7evk
-Git and GitHub for Beginners - Crash Course
 
 
 **** Git Hub terms:*****
